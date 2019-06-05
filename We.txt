@@ -1,0 +1,164 @@
+=====================================
+Host: 89.20.149.102 (msk-exch-edge01.nbn-holding.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: Microsoft IIS httpd
+=====================================
+Host: 89.20.149.103 (msk-exch-edge02.nbn-holding.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: Microsoft IIS httpd
+=====================================
+Host: 89.20.149.104 (m.nbn-holding.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: Microsoft IIS httpd
+Port: 443    State: open  Name: http  Product: Microsoft IIS httpd
+=====================================
+Host: 89.20.149.105 (m.nbn-holding.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: Microsoft IIS httpd
+Port: 443    State: open  Name: http  Product: Microsoft IIS httpd
+=====================================
+Host: 89.20.149.116 ()
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: Apache httpd
+=====================================
+Host: 89.20.149.117 (msk-websrv-web19.ti.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+Port: 443    State: open  Name: http  Product: nginx
+=====================================
+Host: 89.20.149.121 ()
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+Port: 443    State: open  Name: http  Product: nginx
+=====================================
+Host: 89.20.149.125 (msk-selfcaremobile-lb01.ti.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+Port: 443    State: open  Name: http  Product: nginx
+=====================================
+Host: 89.20.149.99 (retail.nbn-holding.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+Port: 443    State: open  Name: http  Product: nginx
+=====================================
+Host: 89.20.149.240 (msk-wifiretv-web01.ti.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+=====================================
+Host: 89.20.149.248 (msk-mobile-app01.ti.ru)
+State: up
+Protocols: tcp
+Port: 443    State: open  Name: http  Product: nginx
+=====================================
+Host: 89.20.159.115 (lyncdiscover.nbn-holding.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: Microsoft HTTPAPI httpd
+Port: 443    State: open  Name: https Product: 
+=====================================
+Host: 89.20.159.97 (mgt-new.ti.ru)
+State: up
+Protocols: tcp
+Port: 8080   State: open  Name: http-proxy Product: 
+=====================================
+Host: 89.20.159.182 (mi-core.nbn-holding.ru)
+State: up
+Protocols: tcp
+Port: 443    State: open  Name: https Product: server
+=====================================
+Host: 89.20.159.186 (mi-sentry.nbn-holding.ru)
+State: up
+Protocols: tcp
+Port: 443    State: open  Name: https Product: 
+=====================================
+Host: 212.1.227.196 (av.nbn-holding.ru)
+State: up
+Protocols: tcp
+Port: 443    State: open  Name: https Product: 
+Port: 444    State: open  Name: snpp  Product: 
+Port: 5061   State: open  Name: sip   Product: Microsoft Skype for Business SIP
+Port: 50001  State: open  Name: mc-nmf Product: .NET Message Framing
+Port: 50002  State: open  Name: mc-nmf Product: .NET Message Framing
+Port: 50003  State: open  Name: mc-nmf Product: .NET Message Framing
+=====================================
+Host: 212.1.227.198 (msk-onyma-weblogon01.ti.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+=====================================
+Host: 212.1.227.201 (wifisms.netbynet.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+=====================================
+Host: 212.1.227.203 (msk-crm-mlkm.nbn-holding.ru)
+State: up
+Protocols: tcp
+Port: 443    State: open  Name: http  Product: Microsoft IIS httpd
+=====================================
+Host: 212.1.227.208 (msk-websrv-web15.ti.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+Port: 443    State: open  Name: http  Product: nginx
+=====================================
+Host: 212.1.227.219 (msk-mgt-app01.ti.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+Port: 443    State: open  Name: http  Product: nginx
+=====================================
+Host: 212.1.227.42 (acs.netbynet.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+=====================================
+Host: 212.1.227.43 (msk-acs-sb02.ti.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+=====================================
+Host: 212.1.227.44 (msk-acs-sb01.ti.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+=====================================
+Host: 212.1.227.6 (msk-acs-stage.ti.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+=====================================
+Host: 212.1.227.62 (msk-sbrfpay-app01.ti.ru)
+State: up
+Protocols: tcp
+Port: 443    State: open  Name: http  Product: Apache httpd
+=====================================
+Host: 212.1.227.78 (msk-cmn-mob01.ti.ru)
+State: up
+Protocols: tcp
+Port: 443    State: open  Name: http  Product: nginx
+=====================================
+Host: 46.232.219.16 (msk-hotspot-web01.ti.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+=====================================
+Host: 46.232.219.2 (1wi-fi.netbynet.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
+=====================================
+Host: 46.232.219.6 (2wi-fi.netbynet.ru)
+State: up
+Protocols: tcp
+Port: 80     State: open  Name: http  Product: nginx
