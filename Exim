@@ -1,0 +1,119 @@
+=====================================
+Host: 89.20.132.86 (bhutan.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 89.20.149.46 ()
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 89.20.149.130 (msk-mail-app01.ti.ru)
+Port: 465   Name: smtps Product:  Version: 
+=====================================
+Host: 89.20.149.141 (msk-mail-app01.ti.ru)
+Port: 465   Name: smtps Product:  Version: 
+=====================================
+Host: 89.20.149.142 (msk-mail-app01.ti.ru)
+Port: 465   Name: smtps Product:  Version: 
+=====================================
+Host: 89.20.149.143 (msk-mail-app01.ti.ru)
+Port: 465   Name: smtps Product:  Version: 
+=====================================
+Host: 89.20.159.2 (msk-streaming-srv03.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 195.131.161.4 (plesk.wplus.net)
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: smtp Product:  Version: 
+=====================================
+Host: 195.131.198.194 ()
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: smtp Product:  Version: 
+=====================================
+Host: 195.131.198.195 ()
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: submission Product:  Version: 
+=====================================
+Host: 195.131.198.196 ()
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: submission Product:  Version: 
+=====================================
+Host: 195.131.198.197 ()
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: smtp Product: qmail smtpd Version: 
+=====================================
+Host: 195.131.198.198 ()
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: smtp Product:  Version: 
+=====================================
+Host: 195.131.198.199 ()
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: smtp Product:  Version: 
+=====================================
+Host: 212.1.224.10 (msk-cus-ddns01.ti.ru)
+Port: 465   Name: smtps Product:  Version: 
+=====================================
+Host: 212.1.224.107 (msk-payments-app01.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.224.108 (msk-payments-app01.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.224.109 (msk-payments-app01.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.226.165 (forum.netbynet.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.229.43 (blg-dhcp.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.229.123 (lip-dhcp.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.162 (armenia.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.163 (austria.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.165 (bulgaria.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.166 (burundi.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.171 (yemen.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.181 (msk-radius-juniper01.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.182 (msk-demon-rad03.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.183 (msk-demon-rad04.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.184 (msk-radius-juniper02.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.206 ()
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 217.8.80.69 (sur-websrv-web01.ti.ru)
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
