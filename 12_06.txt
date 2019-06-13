@@ -1,0 +1,75 @@
+=====================================
+Host: 89.20.149.130 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+=====================================
+Host: 89.20.149.141 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+=====================================
+Host: 89.20.149.142 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+=====================================
+Host: 89.20.149.143 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+=====================================
+Host: 109.75.249.57 ()
+Port: 25    Name: tcpwrapped Product:  Version: 
+=====================================
+Host: 195.131.104.137 ()
+Port: 25    Name: smtp Product: Exim smtpd Version: 
+=====================================
+Host: 195.131.104.140 ()
+Port: 25    Name: smtp Product: Exim smtpd Version: 4.80.1
+=====================================
+Host: 195.131.157.99 ()
+Port: 25    Name: smtp Product: Lotus Domino smtpd Version: 8.5.2
+=====================================
+Host: 195.131.161.4 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: submission Product:  Version: 
+=====================================
+Host: 195.131.198.194 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: submission Product:  Version: 
+=====================================
+Host: 195.131.198.195 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: submission Product:  Version: 
+=====================================
+Host: 195.131.198.196 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: submission Product:  Version: 
+=====================================
+Host: 195.131.198.197 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: submission Product:  Version: 
+=====================================
+Host: 195.131.198.198 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: submission Product:  Version: 
+=====================================
+Host: 195.131.198.199 ()
+Port: 25    Name: smtp Product:  Version: 
+Port: 465   Name: smtps Product:  Version: 
+Port: 587   Name: submission Product:  Version: 
+=====================================
+Host: 212.1.226.165 ()
+Port: 25    Name: smtp Product: Exim smtpd Version: 4.91
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 212.1.255.166 ()
+Port: 25    Name: smtp Product: Exim smtpd Version: 4.91
+Port: 465   Name: smtp Product: Exim smtpd Version: 4.91
+Port: 587   Name: smtp Product: Exim smtpd Version: 4.91
+=====================================
+Host: 217.8.84.38 ()
+Port: 25    Name: smtp Product:  Version: 
