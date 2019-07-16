@@ -19,3 +19,22 @@ sudo usermod -a -G vboxusers $USER
 newgrp vboxusers
 id $USER
 output: uid=1000(jmutai) gid=1000(jmutai) groups=1000(jmutai),10(wheel),976(vboxusers)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.if-not-true-then-false.com/2010/install-virtualbox-with-yum-on-fedora-centos-red-hat-rhel/
+https://www.if-not-true-then-false.com/2010/install-virtualbox-guest-additions-on-fedora-centos-red-hat-rhel/
+
+wget http://download.virtualbox.org/virtualbox/rpm/fedora/virtualbox.repo
+dnf update
+rpm -qa kernel |sort -V |tail -n 1
+uname -r
+reboot
+
+dnf install binutils gcc make patch libgomp glibc-headers glibc-devel kernel-headers kernel-devel dkms qt5-qtx11extras libxkbcommon
+dnf install VirtualBox-6.0
+/usr/lib/virtualbox/vboxdrv.sh setup
+
+usermod -a -G vboxusers user_name
+VirtualBox
