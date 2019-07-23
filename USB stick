@@ -1,0 +1,5 @@
+lsblk
+
+sudo umount /dev/sdx
+
+sudo dd bs=4M if=/path/to/CentOS-7-x86_64-DVD-1810.iso of=/dev/sdx status=progress oflag=sync
